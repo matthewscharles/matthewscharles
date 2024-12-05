@@ -1,5 +1,5 @@
 # Charles Matthews
-<span><img src="ISO_C++_Logo.svg" alt="C++ Logo" width="30px"></span>
+<span><img src="ISO_C++_Logo.svg" onclick="preventDefault()" alt="C++ Logo" width="30px"></span>
 <span><img src="unreal-engine-svgrepo-com.svg" width="30px"></span>
 <span><img src="wwise_logo_icon_249154.svg" width="30px" alt="Wwise logo"></span>
 <span><img src="Unofficial_JavaScript_logo_2.svg" width="30px"></span>
