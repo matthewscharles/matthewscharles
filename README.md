@@ -13,4 +13,4 @@
 - [Gamelan Room](https://www.good-vibrations.org.uk/gamelan-room/) (music app commissioned by Good Vibrations)
 - [Haptic Baton](https://www.humaninstruments.co.uk/haptic-baton) (featured on [CNN](https://www.youtube.com/watch?v=GPajyVGw82s))
 - [The Kellycaster](https://www.drakemusic.org/technology/instruments-projects/the-kellycaster/) implementation of a bespoke guitar designed by John Kelly
-- [Define Your Journey](https://www.youtube.com/watch?v=QApY4qj2PDw) instructions for a musical choose-your-own adventure experience that combined YouTube videos with playable on-screen instruments
+- [Define Your Journey](https://www.youtube.com/watch?v=QApY4qj2PDw) instructions for a musical choose-your-own adventure experience (2021)
