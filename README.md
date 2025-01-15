@@ -5,7 +5,7 @@
 <span><img src="Unofficial_JavaScript_logo_2.svg" width="30px" alt="JavaScript logo"></span>
 <span><img src="Pure_Data_logo.svg" width="30px" height="30px" alt="pure data logo"></span>
 <span><img src="Logo_C_sharp.svg" alt="C sharp Logo" width="30px"></span>
-<span><img src="cycling74logo.png" alt="Max MSP logo" height="30px"></span>
+<span><img src="cycling74logo.svg" alt="Max MSP logo" height="30px"></span>
 ## Technical audio design | Tool Development | Accessibility
 - [Game audio demos on YouTube](https://www.youtube.com/playlist?list=PLIKWa1FaZD5y24pnfeUiXkJ6GzWY5KAUE) (Unreal Engine technical audio, MetaSound procedural audio, and linear audio redesigns)
 - [Branches: a MetaSound plugin for Unreal Engine](https://github.com/matthewscharles/metasound-plugins/) (C++)
