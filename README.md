@@ -8,7 +8,8 @@
 <span><img src="Logo_C_sharp.svg" alt="C sharp Logo" width="30px"></span>
 
 ## Technical audio design | Tool Development | Accessibility
-- [Game audio demo videos](https://www.youtube.com/playlist?list=PLIKWa1FaZD5y24pnfeUiXkJ6GzWY5KAUE) (Unreal Engine technical audio, MetaSound procedural music, and linear audio redesigns)
+
+- [Game audio demo playlist](https://www.youtube.com/playlist?list=PLIKWa1FaZD5y24pnfeUiXkJ6GzWY5KAUE) (Unreal Engine technical audio, MetaSound procedural music, and linear audio redesigns)
 - [Branches: a MetaSound plugin for Unreal Engine](https://github.com/matthewscharles/metasound-plugins/) (C++)
 - [Gamelan Room](https://www.good-vibrations.org.uk/gamelan-room/) (web music app commissioned by Good Vibrations)
 - [Haptic Baton](https://www.humaninstruments.co.uk/haptic-baton) (accessible music technology as featured on [CNN](https://www.youtube.com/watch?v=GPajyVGw82s))
