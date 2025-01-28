@@ -1,5 +1,5 @@
 # Charles Matthews
-<span><img src="ISO_C++_Logo.svg" onclick="preventDefault()" alt="C++ Logo" width="30px"></span>
+<span><img src="ISO_C++_Logo.svg" alt="C++ Logo" width="30px"></span>
 <span><img src="unreal-engine-svgrepo-com.svg" width="30px" alt="Unreal Engine logo"></span>
 <span><img src="wwise_logo_icon_249154.svg" width="30px" alt="Wwise logo"></span>
 <span><img src="Unofficial_JavaScript_logo_2.svg" width="30px" alt="JavaScript logo"></span>
@@ -9,7 +9,7 @@
 
 ## Technical audio design | Tool Development | Accessibility
 
-Please visit my portfolio at [matthewscharles.github.io](https://matthewscharles.github.io/)
+Portfolio site available now at [matthewscharles.github.io](https://matthewscharles.github.io/)
 
 - [Game audio demo playlist](https://www.youtube.com/playlist?list=PLIKWa1FaZD5y24pnfeUiXkJ6GzWY5KAUE) (Unreal Engine technical audio, MetaSound procedural music, and linear audio redesigns)
 - [Branches: a MetaSound plugin for Unreal Engine](https://github.com/matthewscharles/metasound-plugins/) (C++)
