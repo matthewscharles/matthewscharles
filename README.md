@@ -9,7 +9,7 @@
 
 ## Technical audio design | Tool Development | Accessibility
 
-Portfolio site available now at [matthewscharles.github.io](https://matthewscharles.github.io/)
+New portfolio site: [matthewscharles.github.io](https://matthewscharles.github.io/)
 
 - [Game audio demo playlist](https://www.youtube.com/playlist?list=PLIKWa1FaZD5y24pnfeUiXkJ6GzWY5KAUE) (Unreal Engine technical audio, MetaSound procedural music, and linear audio redesigns)
 - [Branches: a MetaSound plugin for Unreal Engine](https://github.com/matthewscharles/metasound-plugins/) (C++)
