@@ -17,4 +17,3 @@ New portfolio site: [matthewscharles.github.io](https://matthewscharles.github.i
 - [Haptic Baton](https://www.humaninstruments.co.uk/haptic-baton) (accessible music technology as featured on [CNN](https://www.youtube.com/watch?v=GPajyVGw82s))
 - [The Kellycaster](https://www.drakemusic.org/technology/instruments-projects/the-kellycaster/) (a bespoke digital guitar designed by John Kelly)
 - [Plastic Season](https://www.youtube.com/watch?v=aw8Qo3xfbyI) (2024 music demo)
-- [Define Your Journey](https://www.youtube.com/watch?v=QApY4qj2PDw) (2021 demo: instructions for a musical choose-your-own adventure experience)
