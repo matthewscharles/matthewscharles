@@ -18,4 +18,5 @@
 - [Gamelan Room](https://www.good-vibrations.org.uk/gamelan-room/) (web music app commissioned by Good Vibrations)
 - [Haptic Baton](https://www.humaninstruments.co.uk/haptic-baton) (accessible music technology as featured on [CNN](https://www.youtube.com/watch?v=GPajyVGw82s))
 - [The Kellycaster](https://www.drakemusic.org/technology/instruments-projects/the-kellycaster/) (a bespoke digital guitar designed by John Kelly)
+- [InstrumentMaker.org](https://instrumentmaker.org) (a Pure Data library for non-specialists to access instrument building)
 - [Plastic Season](https://www.youtube.com/watch?v=aw8Qo3xfbyI) (2024 music demo)
