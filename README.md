@@ -9,7 +9,7 @@
 
 ## Technical audio design | Tool Development | Accessibility
 
-## 🎮 **Portfolio site: [matthewscharles.github.io](https://matthewscharles.github.io/)**
+## 🎮 **Portfolio: [matthewscharles.github.io](https://matthewscharles.github.io/)**
 
 # Links:
 
