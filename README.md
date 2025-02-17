@@ -7,7 +7,7 @@
 <span><img src="Cycling_74_logo.svg" alt="Max MSP logo" height="30px" width="30px"></span>
 <span><img src="Logo_C_sharp.svg" alt="C sharp Logo" width="30px"></span>
 
-## Technical audio design | Tool Development | Accessibility
+## 🎛️ Technical audio design | 🛠️ Tool Development | ♿️ Accessibility
 
 ## 🎮 **Portfolio: [matthewscharles.github.io](https://matthewscharles.github.io/)**
 
